@@ -13,7 +13,7 @@ Please run FebRNA as follows:
 gcc cgRNASP-Feb.c -lm -o cgRNASP-Feb
 gcc reconstruction.c -lm -o reconstruction 
 
-# Run in the excample dir 
+# Run in the example dir 
 python ./FebRNA.py (or python3 ./FebRNA.py)
 (in the file directory depending on the installed Python version) .
 ```
