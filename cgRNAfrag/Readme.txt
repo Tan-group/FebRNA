@@ -6,13 +6,18 @@ cgRNAfrag is a tool for separating a global 3D structure into its different type
 Please run cgRNAfrag as follows:
 
 ```
-# Inputting the required files in the "pdb" directoty
+# Put the prerequisite files
+(a)
+(b)
 
-# Run the 
+# Run cgRNAfrag program
+
 python ./cgRNAfrag.py (or python3 ./cgRNAfrag.py)
 (in the file directory depending on the installed Python version) .
 
-# Out put
+# Out put files
+
+
 ```
 
 If you have any questions about cgRNAfrag, please contact us by the email: zjtan@whu.edu.cn .
