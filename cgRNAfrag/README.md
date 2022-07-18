@@ -7,8 +7,8 @@ Please run cgRNAfrag as follows:
 
 ```
 # The prerequisite files and path to place them
-- (a) two files with suffix of “.pdb” and ".dbn" for the 3D CG coordinates in standard PDB format and secondary structure in dot-bracket form for a RNA respectively (e.g. 4jf2.pdb and 4jf2.dbn)
-- (b) creat a new folder named by the corresponding PDB id under the “pdb” folder (e.g. "pdb/4jf2")
+- (a) two files with suffix of “.pdb” and ".dbn" for the 3D coarse-grained coordinates in standard PDB format and secondary structure in dot-bracket form for a RNA respectively (e.g. 4jf2.pdb and 4jf2.dbn)
+- (b) create a new folder named by the corresponding PDB id under the “pdb” folder (e.g. "pdb/4jf2")
 - (c) place the above two files to the new folder
 
 # Run cgRNAfrag program
