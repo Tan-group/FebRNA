@@ -205,7 +205,7 @@ def Begin_clear():
     :return: none
     """
     for name in os.listdir():
-        if name not in ['fragment', 'reconstruction', 'database', 'cgRNASP-Feb', 'data', 'move_tool.py', 'Num_to_tree.py', 'parse_mid.py', 'FebRNA.py', 'cgRNASP-Feb.c', '__pycache__', 'reconstruction.c', 'BackAA.py', 'Dot_to_num.py', 'readme.txt', 'Select_structure.py']:
+        if name not in ['cgRNAfrag', 'fragment', 'reconstruction', 'database', 'cgRNASP-Feb', 'data', 'move_tool.py', 'Num_to_tree.py', 'parse_mid.py', 'FebRNA.py', 'cgRNASP-Feb.c', '__pycache__', 'reconstruction.c', 'BackAA.py', 'Dot_to_num.py', 'readme.txt', 'Select_structure.py']:
             try:
                 shutil.rmtree(name)
             except NotADirectoryError:
