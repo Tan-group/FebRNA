@@ -1,7 +1,7 @@
 
 ******Readme for cgRNAfrag******  by Tan-group at Wuhan University
 
-cgRNAfrag is a tool for separating a global RNA 3D structure into its different type of fragments based its secondary structure.
+cgRNAfrag is a tool for separating a global RNA 3D structure at the 3-bead CG representation into its different types of fragments based on its secondary structure.
 
 Please run cgRNAfrag as follows:
 
