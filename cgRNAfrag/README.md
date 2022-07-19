@@ -21,7 +21,7 @@ Please run cgRNAfrag as follows:
 
 If you have any questions about cgRNAfrag, please contact us by the email: zjtan@whu.edu.cn .
 
-References:                                      
+Reference:                                      
 [1] Zhou L, Wang X, Yu S, Tan YL, &  Tan ZJ. 2022. FebRNA: an automated fragment-ensemble-based 
 model for building RNA 3D structures.
 
