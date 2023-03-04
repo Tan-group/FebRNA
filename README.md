@@ -46,8 +46,8 @@ To remove possible steric clashes and chain breaks of the rebuilt all-atom struc
 refinement  can be performed for the rebuilt all-atom structures by FebRNA through the method 
 of QRNAS (https://github.com/sunandan-mukherjee/QRNAS.git) [2].
 
-If you have any questions about FebRNA, please contact us by the email: zjtan@whu.edu.cn .
 
+If you have any questions about FebRNA, please contact us by the email: zjtan@whu.edu.cn .
 
 References:                                      
 [1] Zhou L, Wang X, Yu S, Tan YL, &  Tan ZJ. 2022. FebRNA: an automated fragment-ensemble-based 
