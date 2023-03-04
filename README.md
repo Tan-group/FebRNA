@@ -53,6 +53,6 @@ References:
 [1] Zhou L, Wang X, Yu S, Tan YL, &  Tan ZJ. 2022. FebRNA: an automated fragment-ensemble-based 
 model for building RNA 3D structures. Biophys J. 121(18): 3381-3392.                                                    
 [2] Stasiewicz J, Mukherjee S, Nithin C, & Bujnicki, JM. 2019. QRNAS: software tool for refinement of 
-nucleic acid structures. Bmc Struct Biology. 19(5): 1-11.
+nucleic acid structures. Bmc Struct Biology. 19, 5.
 
 
